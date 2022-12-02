@@ -9,7 +9,7 @@ For example, check out the following utitilies:
 - <a href="https://getbootstrap.com/docs/5.2/utilities/opacity/" target="_blank">Opacity</a>
 - <a href="https://getbootstrap.com/docs/5.2/utilities/sizing/" target="_blank">Sizing</a>
 - <a href="https://getbootstrap.com/docs/5.2/utilities/spacing/" target="_blank">Spacing</a>
-- <a href="https://getbootstrap.com/docs/4.0/utilities/flex/>" target="_blank">Flex</a>
+- <a href="https://getbootstrap.com/docs/5.2/utilities/flex/" target="_blank">Flex</a>
 - <a href="https://getbootstrap.com/docs/5.2/utilities/position/" target="_blank">Position</a>
 - <a href="https://getbootstrap.com/docs/5.2/utilities/text/" target="_blank">Text</a>
 
